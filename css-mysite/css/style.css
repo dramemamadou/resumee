@@ -1,0 +1,100 @@
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+h1{
+  color: #5eaaa8;
+  margin: 50,auto,0,auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+h2{
+  color: #5eaaa8;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: normal;}
+
+h3{
+  color: #5eaaa8;
+  font-family: 'Montserrat', sans-serif;
+
+}
+p{
+  line-height: 2;
+
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: non;
+  width: 4%;
+  margin: 100px auto;
+
+}
+a{
+  text-decoration: none;
+}
+
+
+.top-container{
+  background-color: #f4f9f9;
+  position: relative;
+  padding-top: 200px;
+  margin: 100px 0;
+}
+.midlle-container{
+
+
+}
+.bottom-container{
+  margin-top: 50px ;
+}
+
+
+.top-cloud{
+  position: absolute;
+  top: 50px;
+  right: 300px;
+
+
+}
+
+.bottom-cloud{
+  position: absolute;
+left: 300px;
+bottom: 300px;
+
+}
+.skill-row{
+  width: 50%;
+  margin:100px auto 100px  auto;
+  text-align: left;
+
+
+}
+.laptop-img{
+width: 25%;
+float: left;
+margin: 30px;
+
+}
+.Design-img{
+width: 25%;
+float: right;
+margin: 30px;
+
+}
+.mo{
+margin-right:20%;
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.contact-msg{
+  width: 40%;
+  margin: 40px auto 60px;
+
+
+}
